@@ -77,7 +77,7 @@ nav a{
 
 #hero{
     color: white;
-    padding: 40px;
+    padding: 6%;
     text-align: start;
     background: url(img/fondo\ hero.png);
     background-size: cover;
@@ -89,8 +89,8 @@ nav a{
 #hero h1{
     display: inline-block;
     font-family: "Hammersmith One", sans-serif;
-    font-size: 45px;
-    margin-top: 40px;
+    font-size: 415%;
+    margin-top: 5%;
     margin-bottom: 20px;
 }
 
@@ -569,5 +569,5 @@ footer .titulo{
     background-color: #ffffff20;
     padding: 50px;
     border-radius: 50px;
-    left: 20%;
+    left: 25%;
 }
